@@ -52,12 +52,12 @@ const Skills = (props: Props) => {
           <span className="text-white/50 font-bold">NODEJS</span>
         </div>
         <div className="col-span-1 flex flex-col">
-          <i className="devicon--plain text-white/50  duration-500 text-8xl"></i>
-          <span className="text-white/50 font-bold">PHOTOSHOP</span>
+          <i className="devicon-git-plain text-white/50  duration-500 text-8xl"></i>
+          <span className="text-white/50 font-bold">GIT</span>
         </div>
         <div className="col-span-1 flex flex-col">
-          <i className="devicon-nextjs-plain text-white/50  duration-500 text-8xl"></i>
-          <span className="text-white/50 font-bold">NEXT.JS</span>
+          <i className="devicon-linux-plain text-white/50  duration-500 text-8xl"></i>
+          <span className="text-white/50 font-bold">LINUX</span>
         </div>
       </div>
     </section>
