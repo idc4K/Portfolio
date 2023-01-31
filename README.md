@@ -11,6 +11,6 @@ Ce projet est mon portfolio. Il regroupe mon histoire (une brève partie), les t
 
 ## URL
 
-Vous pouvez le visiter ici => [Portfolio](/) 
+Vous pouvez le visiter ici => [Portfolio](https://heartfelt-sunflower-f84a75.netlify.app) 
 
 Bonne visite !
