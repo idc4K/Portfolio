@@ -11,6 +11,6 @@ Ce projet est mon portfolio. Il regroupe mon histoire (une brève partie), les t
 
 ## URL
 
-Vous pouvez le visiter ici => [Portfolio](https://frontcodelover.vercel.app/) 
+Vous pouvez le visiter ici => [Portfolio](/) 
 
 Bonne visite !
