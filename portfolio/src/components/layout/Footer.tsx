@@ -11,23 +11,17 @@ class Footer extends Component<Props, State> {
     return (
       <footer className="shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800 pl-4 pb-4">
         <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
-          © 2022{" "}
+          © 2023{" "}
           <a
-            href="https://www.linkedin.com/in/nicolas-de-raemy-957b62231"
+            href="https://www.linkedin.com/in/christevie-ikonga-87b3bb19a/"
             className="hover:underline"
           >
-            Nicolas de RAEMY
+            Christevie Ikonga
           </a>
           .
 
         </span>
-        <div className="mt-4 md:mt-0 md:order-1 text-sm text-gray-500 sm:text-center dark:text-gray-400">
-          <a
-            href="/mentions-legales"
-          >
-            Mentions légales
-          </a>
-          </div>
+       
       </footer>
     );
   }

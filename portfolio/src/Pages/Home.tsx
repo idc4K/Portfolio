@@ -163,7 +163,7 @@ export default function Home() {
           ref={imgButtonRef}
         >
           <a
-            href="https://twitter.com/frontcodelover"
+            href=""
             target="_blanck"
             rel="noreferrer"
           >
@@ -173,7 +173,7 @@ export default function Home() {
             </button>
           </a>
           <a
-            href="https://www.linkedin.com/in/nicolas-de-raemy/"
+            href="https://www.linkedin.com/in/christevie-ikonga-87b3bb19a/"
             target="_blanck"
             rel="noreferrer"
           >
@@ -183,7 +183,7 @@ export default function Home() {
             </button>
           </a>
           <a
-            href="https://github.com/frontcodelover"
+            href="https://github.com/idc4K"
             target="_blanck"
             rel="noreferrer"
           >

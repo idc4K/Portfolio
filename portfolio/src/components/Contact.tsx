@@ -11,7 +11,7 @@ function Contact() {
         <ContactForm />
         <div className=" flex container align-middle justify-center mx-auto text-center">
           <a
-            href="https://twitter.com/frontcodelover"
+            href=""
             target="_blanck"
             rel="noreferrer"
           >
@@ -20,7 +20,7 @@ function Contact() {
             </button>
           </a>
           <a
-            href="https://www.linkedin.com/in/nicolas-de-raemy/"
+            href="https://www.linkedin.com/in/christevie-ikonga-87b3bb19a/"
             target="_blanck"
             rel="noreferrer"
           >
@@ -29,7 +29,7 @@ function Contact() {
             </button>
           </a>
           <a
-            href="https://github.com/frontcodelover"
+            href="https://github.com/idc4K"
             target="_blanck"
             rel="noreferrer"
           >

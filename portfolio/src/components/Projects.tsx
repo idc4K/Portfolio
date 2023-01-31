@@ -31,37 +31,16 @@ const Projects = (props: Props) => {
       <div className="grid lg:grid-cols-4 gap-6  overflow-hidden mt-14 p-5">
         <div className="card bg-[#01111e] p-9 rounded-xl text-white/50 relative">
           <h3 className="text-white text-2xl font-semibold mb-4">
-            Livres préférés
+            API WITH NODE JS
           </h3>
-          <p>Ajouter vos livres préférés dans vos listes de lecture.</p>
           <div className="flex flex-wrap justify-start my-9 font-semibold">
             <p className="bg-blue-ndr px-2 py-1 rounded text-white mr-1 mb-1">
-              Next.JS
-            </p>
-            <p className="bg-red-ndr px-2 py-1 rounded text-white mr-1 mb-1">
-              Firebase
-            </p>
-            <p className="bg-white/50 px-2 py-1 rounded text-white mr-1 mb-1">
-              Google Books API
-            </p>
-            <p className="bg-purple-500 px-2 py-1 rounded text-white mr-1 mb-1">
-              TailwindCSS
+              NODE JS
             </p>
           </div>
           <div className="absolute bottom-5 text-white">
-            <a
-              href="https://mybooklist-blush.vercel.app/"
-              target="_blank"
-              className="cursor-pointer font-semibold hover:text-white"
-              rel="noreferrer"
-            >
-              <p className="flex mr-2">
-                <FiLink className="mr-2 mt-1" />
-                MyBookList-blush.vercel.app
-							</p>
-						</a>
 						<a
-              href="https://github.com/frontcodelover/mybooklist"
+              href="https://github.com/idc4K/ApiWithExpress"
               target="_blank"
               className="cursor-pointer font-semibold hover:text-white"
               rel="noreferrer"
@@ -75,29 +54,20 @@ const Projects = (props: Props) => {
         </div>
         <div className="card bg-[#01111e] p-9 rounded-xl text-white/50 relative">
           <h3 className="text-white text-2xl font-semibold mb-4">
-            CodeTracker
+            DEVOPS WITH NODE JS
           </h3>
-          <p>Tracker son temps passé à coder et ses projets</p>
+          
           <div className="flex justify-start flex-wrap my-9 font-semibold">
             <p className="bg-blue-ndr px-2 py-1 rounded text-white mr-1 mb-1">
-              Next.JS
+              NODE JS
             </p>
             <p className="bg-red-ndr px-2 py-1 rounded text-white mr-1 mb-1">
-              Firebase
-            </p>
-            <p className="bg-blue-800 px-2 py-1 rounded text-white mr-1 mb-1">
-              Typescript
-            </p>
-            <p className="bg-white/50 px-2 py-1 rounded text-white mr-1 mb-1">
-              Chart.JS
-            </p>
-            <p className="bg-purple-500 px-2 py-1 rounded text-white mr-1 mb-1">
-              TailwindCSS
+              DOCKER
             </p>
           </div>
           <div className="absolute bottom-5 text-white">
             <a
-              href="https://github.com/frontcodelover/codetrackerts"
+              href="https://github.com/idc4K/Training"
               target="_blank"
               className="cursor-pointer font-semibold hover:text-white"
               rel="noreferrer"
@@ -128,7 +98,7 @@ const Projects = (props: Props) => {
           </div>
           <div className="absolute bottom-5 text-white">
             <a
-              href="https://github.com/frontcodelover/portfolio"
+              href="https://github.com/idc4K/Portfolio"
               target="_blank"
               className="cursor-pointer font-semibold hover:text-white"
               rel="noreferrer"
@@ -142,24 +112,23 @@ const Projects = (props: Props) => {
         </div>
         <div className="card bg-[#01111e] p-9 rounded-xl text-white/50 relative">
           <h3 className="text-white text-2xl font-semibold mb-4">
-            Avant j'étais riche
+            API WITH DJANGO
           </h3>
-          <p>Cadeaux originaux et décalés en ligne depuis janvier 2013</p>
           <div className="flex justify-start flex-wrap my-9 font-semibold">
             <p className="bg-black px-2 py-1 rounded text-white mr-1 mb-1">
-              Wordpress
+              DJANGO 
             </p>
           </div>
           <div className="absolute bottom-5 text-white">
             <a
-              href="https://www.avantjetaisriche.com/"
+              href=""
               target="_blank"
               className="cursor-pointer font-semibold hover:text-white"
               rel="noreferrer"
             >
               <p className="flex mr-2">
                 <FiLink className="mr-2 mt-1" />
-                Avantjetaisriche.com
+                Github rpo
               </p>
             </a>
           </div>

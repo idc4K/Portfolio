@@ -55,7 +55,7 @@ function SoftSkills() {
   return (
     <section className="container max-w-screen-xl mx-auto text-center py-20">
       <p className="lg:text-2xl text-center text-white/70 py-9 mb-9 text-xl p-5">
-        Mes différentes expériences professionnelles m'ont permis d'acquérir
+        Mes différentes expériences m'ont permis d'acquérir
         plusieurs soft-skills que je mets en pratique au quotidien dans les
         tâches qui me sont confiées.
       </p>
