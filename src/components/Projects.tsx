@@ -128,7 +128,7 @@ const Projects = (props: Props) => {
             >
               <p className="flex mr-2">
                 <FiLink className="mr-2 mt-1" />
-                Github rpo
+                Github repo
               </p>
             </a>
           </div>
