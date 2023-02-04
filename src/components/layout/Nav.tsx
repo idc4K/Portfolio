@@ -11,7 +11,7 @@ export default function Nav() {
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
             <h2 className="text-2xl text-white font-bold">
               <a href="/">
-                {"< / >"}
+                {"IDC"}
               </a>
             </h2>
 
