@@ -1,5 +1,5 @@
 import { useRef, useEffect } from "react";
-import codeurOpti from "../codeur.webp";
+import codeurOpti from "../img5.png";
 import SectionAbout from "../components/SectionAbout";
 import Skills from "../components/Skills";
 import Contact from "../components/Contact";
